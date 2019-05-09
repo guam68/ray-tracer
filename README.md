@@ -1,6 +1,6 @@
 # ray-tracer
 
-Basic functioning ray tracer using Pillow, a fork of the Python Imaging Library. Shading is using the facing ratio method.
+Basic functioning ray tracer the Python Imaging Library. Shading is using the facing ratio method.
 
 ## Fixes needed: 
 - Perspective distortion when sphere or camera is moved off the center line
